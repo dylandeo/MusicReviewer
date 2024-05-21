@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "209524540642",
+    "project_id": "group-project-2-180bf",
+    "storage_bucket": "group-project-2-180bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209524540642:android:b1968e875b818d41f58abb",
+        "android_client_info": {
+          "package_name": "com.example.mobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209524540642-tive8s4ihe6fvphe8us740rh6bjkui05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobileapp",
+            "certificate_hash": "084d781eef233599be91aea1f3a58f0dec3663a2"
+          }
+        },
+        {
+          "client_id": "209524540642-i5i48re2c2s6ctg7gspr14avp0k7u6an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OzkogGg5EUNWN9HfYLvYgT0i8Y4lG7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209524540642-i5i48re2c2s6ctg7gspr14avp0k7u6an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209524540642:android:3fcf92cd6849ceb9f58abb",
+        "android_client_info": {
+          "package_name": "com.example.music_junkie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209524540642-k4p5haqptrr6dksuati8rf3iosq286ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_junkie",
+            "certificate_hash": "084d781eef233599be91aea1f3a58f0dec3663a2"
+          }
+        },
+        {
+          "client_id": "209524540642-tf7t9o58pl5pfhqe0i0ns9gun70144ad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_junkie",
+            "certificate_hash": "5a3637be53e61a840aa567352af90c5efc5253b7"
+          }
+        },
+        {
+          "client_id": "209524540642-i5i48re2c2s6ctg7gspr14avp0k7u6an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9OzkogGg5EUNWN9HfYLvYgT0i8Y4lG7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209524540642-i5i48re2c2s6ctg7gspr14avp0k7u6an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

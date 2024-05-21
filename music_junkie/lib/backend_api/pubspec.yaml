@@ -1,0 +1,11 @@
+name: music_junkie_backend_api
+
+publish_to: none #dont publish to pub.dev
+description: A backend api for the music junkie app
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  alfred:
+  postgres:
